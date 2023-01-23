@@ -1,0 +1,15 @@
+In this project i have tried to recreate a 2D videogame with the purple object as a player.
+It can gather gold coins in order so increase the Force of the jump and reach bigger 
+altitudes.
+The player can move horizontally.
+
+To see the script open 2D_VVIDEOGAME/Assets/Scripts/Player.cs
+
+Steps for playing:
+1)Open the folder in the Unity environment.
+2)Start in the play mode the game.
+
+Commands:
+"Space bar" Jump movement
+"Left arrow" Left horizontal translation
+"Right arrow" Right horizontal translation
